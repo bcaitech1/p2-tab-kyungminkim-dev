@@ -36,6 +36,8 @@ metric : AUC(Area Under Curve)
 
 최종 LB AUC : 0.8572 , 36등/ 99
 
+![image-AUC](../../assets/img/boostcamp/ConfigurationModel.png)
+
 ## 검증 전략 
 
 stratified K fold(fold = 10)을 사용 하여 검증 했습니다. 
