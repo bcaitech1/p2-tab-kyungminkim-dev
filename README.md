@@ -36,7 +36,6 @@ metric : AUC(Area Under Curve)
 
 최종 LB AUC : 0.8572 , 36등/ 99
 
-![image-AUC](../../assets/img/boostcamp/ConfigurationModel.png)
 
 ## 검증 전략 
 
