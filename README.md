@@ -32,6 +32,8 @@
 
 metric : AUC(Area Under Curve)
 
+![AUC](https://github.com/bcaitech1/p2-tab-kyungminkim-dev/blob/main/image/AUC.png)
+
 ## 등수
 
 최종 LB AUC : 0.8572 , 36등/ 99
