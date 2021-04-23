@@ -16,11 +16,17 @@
 
 ## Components
 
-* Main.ipynb : feature engineering, random seed고정, 결과 도출등 예측에 필요한 모든 함수들을 구현한 파일입니다.
+<code>Main.ipynb</code> 
 
-* ensemble.ipynb : 여러개의 모델을 앙상블하여 결과를 도출하는 파일입니다. 앙상블에는 단순 평균 방법을 사용했습니다.
+* feature engineering, random seed고정, 결과 도출등 예측에 필요한 모든 함수들을 구현한 파일입니다.
 
-* test.txt : 대회 진행동안 제출한 모델의 test AUC, train AUC, 최종 AUC, 사용한 피쳐, 모델, 하이퍼 파라미터등을 정리한 파일입니다.
+<code>ensemble.ipynb</code>
+
+* 여러개의 모델을 앙상블하여 결과를 도출하는 파일입니다. 앙상블에는 단순 평균 방법을 사용했습니다.
+
+<code>test.txt</code>  
+
+* 대회 진행동안 제출한 모델의 test AUC, train AUC, 최종 AUC, 사용한 피쳐, 모델, 하이퍼 파라미터등을 정리한 파일입니다.
 
 ## 평가 방법 
 
