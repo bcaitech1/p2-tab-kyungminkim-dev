@@ -28,6 +28,20 @@
 
 * 대회 진행동안 제출한 모델의 test AUC, train AUC, 최종 AUC, 사용한 피쳐, 모델, 하이퍼 파라미터등을 정리한 파일입니다.
 
+## 데이터 
+
+* order_id : 주문 번호, 데이터에서 같은 주문번호는 동일 주문을 나타냄
+* product_id : 상품 번호
+* description : 상품 설명
+* quantity : 상품 주문 수량
+* order_date : 주문 일자
+* price : 상품 가격
+* costomer_id : 고객 번호
+* country : 고객 거주 국가
+* total : 총 구매액 
+* 총 780502의 row , 9개의 feature
+
+
 ## 평가 방법 
 
 metric : AUC(Area Under Curve)
