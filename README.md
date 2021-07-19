@@ -41,6 +41,7 @@
 * total : 총 구매액 
 * 총 780502의 row , 9개의 feature
 
+![tab_csv](https://github.com/bcaitech1/p2-tab-kyungminkim-dev/blob/main/image/tab_csv.png)
 
 ## 평가 방법 
 
